@@ -1,4 +1,3 @@
-## Welcome to Ryan's GitHub Page
 
 Hello All! I'm Ryan an aspiring Front-End Developer recently graduated from Southern New Hampshire University with a Bachelors in Computer Science. 
 I was born in Georgetown, Guyana and grew up in Queens, New York.
