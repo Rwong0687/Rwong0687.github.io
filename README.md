@@ -1,4 +1,5 @@
 
+## Self-assessment:
 **Hello All!** I'm Ryan an aspiring Front-End Developer recently graduated from Southern New Hampshire University with a Bachelors in Computer Science. 
 I was born in Georgetown, Guyana and grew up in Queens, New York. Currently I'm employed as a Food Safety & Quality Manager and looking to do a career change into the great world of web development.
 
