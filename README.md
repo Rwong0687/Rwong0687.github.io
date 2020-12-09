@@ -23,13 +23,13 @@ all of which I believe are skills that will be needed in web development.
 
 **Catergory One:** Software Design and Engineering:
 For this assignment I've transferred the orginaly project into a different language, java - HTML, CSS, and JavaScript. The program displays the top five vacation destinations and has ability to be controlled manually or automatically. 
-You can view the project files here [MS1_CS499_RyanWong_Revised] (https://github.com/Rwong0687/Rwong0687.github.io/blob/main/MS1_CS499_RyanWong_Revised.zip), and you can find the narrative for this project here [Project 1 narrative] (https://github.com/Rwong0687/Rwong0687.github.io/blob/main/Ryan%20Wong_3-2_MilestoneTwoNarrative_CS499.pdf).
+You can view the project files here [MS1_CS499_RyanWong_Revised](https://github.com/Rwong0687/Rwong0687.github.io/blob/main/MS1_CS499_RyanWong_Revised.zip), and you can find the narrative for this project here [Project 1 narrative](https://github.com/Rwong0687/Rwong0687.github.io/blob/main/Ryan%20Wong_3-2_MilestoneTwoNarrative_CS499.pdf).
 
 **Catergory Two:** Algorithms and Data Structures:
-For this assignemnt I've improved upon the orginal program by utilizing GUIs to improve the overall efficiency of the program. You can view the project files here [MS3_CS499_RyanWong] (https://github.com/Rwong0687/Rwong0687.github.io/blob/main/4-2_MS3_CS499_RyanWong.zip), and you can find the narrative for this project here [Project 2 narrative] (https://github.com/Rwong0687/Rwong0687.github.io/blob/main/Ryan%20Wong_4-2_MilestoneTwoNarrative_CS499.pdf).
+For this assignemnt I've improved upon the orginal program by utilizing GUIs to improve the overall efficiency of the program. You can view the project files here [MS3_CS499_RyanWong](https://github.com/Rwong0687/Rwong0687.github.io/blob/main/4-2_MS3_CS499_RyanWong.zip), and you can find the narrative for this project here [Project 2 narrative](https://github.com/Rwong0687/Rwong0687.github.io/blob/main/Ryan%20Wong_4-2_MilestoneTwoNarrative_CS499.pdf).
 
 **Category Three:** Databases:
-For this assignment I've created a student information system that allows the student/staff or admin to register, drop classes for online or in class courses. You can view the project files here [MS4_CS499_RyanWong] (https://github.com/Rwong0687/Rwong0687.github.io/blob/main/5-2_MS4_CS499_RyanWong.zip), and you can find the narrative for this project here [Project 3 narrative] (https://github.com/Rwong0687/Rwong0687.github.io/blob/main/Ryan%20Wong_5-2_MilestoneFourNarrative_CS499.pdf). 
+For this assignment I've created a student information system that allows the student/staff or admin to register, drop classes for online or in class courses. You can view the project files here [MS4_CS499_RyanWong](https://github.com/Rwong0687/Rwong0687.github.io/blob/main/5-2_MS4_CS499_RyanWong.zip), and you can find the narrative for this project here [Project 3 narrative](https://github.com/Rwong0687/Rwong0687.github.io/blob/main/Ryan%20Wong_5-2_MilestoneFourNarrative_CS499.pdf). 
 
 
 
