@@ -19,6 +19,9 @@ These three artifacts showcase my strengths because it displays my ability to re
 to take a given program and improve the efficiency for the user, it displays my ability to create a user interface that will be helpful and user friendly; 
 all of which I believe are skills that will be needed in web development.
 
+## Code Review: 
+Here you will find a lengthy video of myself throuoghly reviewing the orginal code for the projects I've choosen and detailing the enhancments that I planned on making. You can view the code review here [Milestone One Code Review](https://github.com/Rwong0687/Rwong0687.github.io/blob/main/2-2MilestoneOneCodeReview_RyanWong_CS499_Revised.mp4).
+
 ## Projects: 
 
 **1. Catergory One:** Software Design and Engineering:
